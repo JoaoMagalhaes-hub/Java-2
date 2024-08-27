@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bee1006",
+            "request": "launch",
+            "mainClass": "Bee1006",
+            "projectName": "Java-2_b33545af"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java-2_b33545af"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java-2_b33545af"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
