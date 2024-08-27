@@ -13,7 +13,7 @@ public class Bee1006 {
         int pesoB = 3;
         int pesoC = 5;
         
-        double media = ((notaA * pesoA) + (notaB * pesoB) + (notaC * pesoC) / (pesoA + pesoB + pesoC));
+        double media = ((notaA * pesoA) + (notaB * pesoB) + (notaC * pesoC)) / (pesoA + pesoB + pesoC);
 
         System.out.println(String.format("MEDIA = %.1f", media));
 
