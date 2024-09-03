@@ -11,6 +11,7 @@ public class bee1070 {
         while(cont < 6){
             if (valorX % 2 == 1){
                 System.out.println(valorX);
+                cont ++;
             }
         }
     }
