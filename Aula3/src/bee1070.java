@@ -13,6 +13,8 @@ public class bee1070 {
                 System.out.println(valorX);
                 cont ++;
             }
+
+            valorX++;
         }
     }
 }
