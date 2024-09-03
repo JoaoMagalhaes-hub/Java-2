@@ -10,6 +10,7 @@
             for (int i = 1; i <= valorX; i++){
                 if (i % 2 != 0);
                     System.out.println(i);
+                    
             }
         }
     }
